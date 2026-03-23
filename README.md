@@ -14,7 +14,7 @@ to identify profit drivers, lose areas, and business opportunities.
 -Total Profit: -$67.13
 -Furniture category generates high revenue but operates at loss, indicating
  pricing or cost inefficiences.
--West region contributes 46.83% of total sales, making it the top performing region.
+-Central region contributes 46.83% of total sales, making it the top performing region.
 -Sales peak in September, suggesting seasonal demand patterns.
 
 ## Data Analysis Process
